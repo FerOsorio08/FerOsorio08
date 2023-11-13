@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**FerOsorio08/FerOsorio08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de una Ingenieria en Tecnologías Computacionales. 
 <!-- [![FerOsorio08's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerOsorio08)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
