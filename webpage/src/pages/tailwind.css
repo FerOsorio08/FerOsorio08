@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    :root{
+        --teal: 210 98% 17%;
+        --teal-foreground: 222.2 47.4% 11.2%;
+        --teal-highlight: 203 95% 40%;
+        --teal-dark: 203 69% 11%;
+        --teal-background: 202, 43%, 61%;
+        --teal-FU: 203 61% 33%;
+    }
+}

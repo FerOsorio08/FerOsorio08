@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "main.js",
   "scripts": {
-    "dev": "tsx src/server.ts",
-    "build:css": "tailwindcss -i ./src/styles/tailwind.css -o ./public/styles.css --watch"
+    "dev": "nodemon --ext ts,tsx --exec tsx src/server.ts",
+    "build:css": "tailwindcss -c tailwind.config.ts -i ./src/styles/tailwind.css -o ./public/styles.css --watch"
   },
   "author": "",
   "license": "ISC",
